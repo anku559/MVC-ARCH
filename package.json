@@ -1,0 +1,25 @@
+{
+  "name": "async-await",
+  "version": "1.0.0",
+  "description": "Based on Async-Await approach",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "development": "nodemon app.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "Morgan",
+    "MongoDB"
+  ],
+  "author": "Ankit Singh Chondawat",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
